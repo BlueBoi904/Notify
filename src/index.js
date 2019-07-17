@@ -25,8 +25,8 @@ const firebaseConfig = {
 const routing =(
   <Router>
     <div id='routing-container'>
-      <Route exact path='/login' component={LoginComponent}></Route>
-      <Route  exact path='/signup' component={SignupComponent}></Route>
+      <Route exact path='/' component={LoginComponent}></Route>
+      <Route exact path='/signup' component={SignupComponent}></Route>
       <Route path='/dashboard' component={App}></Route> 
     </div>
   </Router>
