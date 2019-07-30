@@ -19,4 +19,8 @@ Note application which allows users to create an account, login, and create/dele
 
 # Test App Live
 
-Test for yourself here: https://robo-dex.herokuapp.com/
+Test for yourself!
+
+1. Download Files
+2. run \$ npm install
+3. run \$ npm start
